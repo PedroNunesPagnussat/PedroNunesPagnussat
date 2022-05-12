@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: NLP, Python, Machine Learning and Computer Vision
-- 🌱 I’m currently learning: PostgreSQL and Data Engineer (Apache Airflow and pyspark)
+- 🔭 I’m currently working on: Python, Machine Learning and Computer Vision
+- 🌱 I’m currently learning: computer vision
 - 👯 I’m looking to collaborate on: The financial market
 - 🤔 I’m looking for help with: My career path
 - 💬 Ask me about: What i can help with
