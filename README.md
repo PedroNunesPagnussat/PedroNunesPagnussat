@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on: Python, Machine Learning and Computer Vision
 - 🌱 I’m currently learning: computer vision
-- 👯 I’m looking to collaborate on: The financial market
+- 👯 I’m looking to collaborate on: Any projects that uses ML or DS 
 - 🤔 I’m looking for help with: My career path
 - 💬 Ask me about: What i can help with
-- 📫 How to reach me: My Gmail and Linkedin ( Just click the tags below) or my discord Pedro Nunes Pagnussat#7390
+- 📫 How to reach me: My Gmail and Linkedin (Just click the tags below) or my discord Pedro Nunes Pagnussat#7390
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to pratice sports and walk with my dog
 -->
