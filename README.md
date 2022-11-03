@@ -7,7 +7,7 @@
 - 💬 Ask me about: What i can help with
 - 📫 How to reach me: My Gmail and Linkedin (Just click the tags below) or my discord Pedro Nunes Pagnussat#7390
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to pratice sports and walk with my dog
+- ⚡ Fun fact: I like to pratice sports and walk with my dog 🐶
 -->
 ##
 [comment]: <> (This Div make the stats)
