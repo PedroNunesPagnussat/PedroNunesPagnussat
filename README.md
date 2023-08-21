@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: Python, Machine Learning and Computer Vision
-- 🌱 I’m currently learning: computer vision
-- 👯 I’m looking to collaborate on: Any projects that uses ML or DS 
-- 🤔 I’m looking for help with: My career path
-- 💬 Ask me about: What i can help with
-- 📫 How to reach me: My Gmail and Linkedin (Just click the tags below) or my discord Pedro Nunes Pagnussat#7390
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to pratice sports and walk with my dog 🐶
--->
+🚀 Currently working on: Python, Machine Learning, and Computer Vision
+📚 Learning: Computer Vision, and Machine Learning in general 
+🤝 Open to Collaboration: Projects involving Machine Learning or Data Science
+📧 Contact Me: Via Gmail, LinkedIn (click the tags below)
+👤 Pronouns: He/Him
+🎉 Fun Fact: I enjoy practicing sports and walking with my dog 🐶
+
 ##
 [comment]: <> (This Div make the stats)
 
@@ -22,8 +20,10 @@
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" >
+       <img align="center" alt="TF" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+    <img align="center" alt="LATEX" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+        <img align="center" alt="JUPYTER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   
 </div>
   
