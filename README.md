@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-🚀 Currently working on: Python, Machine Learning, and Computer Vision
-📚 Learning: Computer Vision, and Machine Learning in general 
-🤝 Open to Collaboration: Projects involving Machine Learning or Data Science
-📧 Contact Me: Via Gmail, LinkedIn (click the tags below)
-👤 Pronouns: He/Him
-🎉 Fun Fact: I enjoy practicing sports and walking with my dog 🐶
+🚀 Currently working on: Python, Machine Learning, and Computer Vision  
+📚 Learning: Computer Vision, and Machine Learning in general  
+🤝 Open to Collaboration: Projects involving Machine Learning or Data Science  
+📧 Contact Me: Via Gmail, LinkedIn (click the tags below)  
+👤 Pronouns: He/Him  
+🎉 Fun Fact: I enjoy practicing sports and walking with my dog 🐶  
 
 ##
 [comment]: <> (This Div make the stats)
