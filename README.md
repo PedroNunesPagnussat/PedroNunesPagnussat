@@ -5,7 +5,7 @@
 🤝 Open to Collaboration: Projects involving Machine Learning or Data Science  
 📧 Contact Me: Via Gmail, LinkedIn (click the tags below)  
 👤 Pronouns: He/Him  
-🎉 Fun Fact: I enjoy practicing sports and walking with my dog 🐶  
+🎉 Fun Fact: I enjoy walking with my dog 🐶  
 
 ##
 [comment]: <> (This Div make the stats)
