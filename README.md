@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-🚀 Currently working on: Python, Machine Learning, and Computer Vision  
-📚 Learning: Computer Vision, and Machine Learning in general  
-🤝 Open to Collaboration: Projects involving Machine Learning or Data Science  
+🚀 Currently working on: Python, Machine Learning, and LLMs 
+
 📧 Contact Me: Via Gmail, LinkedIn (click the tags below)  
+
 👤 Pronouns: He/Him  
-🎉 Fun Fact: I enjoy walking with my dog 🐶  
 
 ##
 [comment]: <> (This Div make the stats)
@@ -18,22 +17,18 @@
 
   [comment]: <> (This Div make the icons) 
   
- <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" >
-       <img align="center" alt="TF" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-    <img align="center" alt="LATEX" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
-        <img align="center" alt="JUPYTER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  
-</div>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="TF" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+    <img align="center" alt="JUPYTER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  </div>
   
   [comment]: <> (This Div Linkedin link) 
  ##
-  <div> 
-  <a href = "mailto:nppedronp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/pedronp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> 
+<a href = "mailto:nppedronp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedronp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+![Snake animation](https://github.com/PedroNunesPagnussat/PedroNunesPagnussat/blob/output/github-contribution-grid-snake.svg)
 
-  ![Snake animation](https://github.com/PedroNunesPagnussat/PedroNunesPagnussat/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
