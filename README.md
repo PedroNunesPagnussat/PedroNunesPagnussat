@@ -2,9 +2,7 @@
 
 🚀 Currently working on: Python, Machine Learning, and LLMs 
 
-📧 Contact Me: Via Gmail, LinkedIn (click the tags below)  
-
-👤 Pronouns: He/Him  
+📧 Contact Me: Via Gmail, LinkedIn   
 
 ##
 [comment]: <> (This Div make the stats)
@@ -16,12 +14,13 @@
 </div>
 
   [comment]: <> (This Div make the icons) 
-  
+  <!--
   <div style="display: inline_block"><br>
     <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="TF" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
     <img align="center" alt="JUPYTER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   </div>
+  -->
   
   [comment]: <> (This Div Linkedin link) 
  ##
